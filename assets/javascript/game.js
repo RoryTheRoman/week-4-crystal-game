@@ -61,10 +61,19 @@ $('#gemFour').on('click', function() {
 	gameScore = gameScore + gemFourNum;
 });
 
+//beginning if/else statements:
+
+if (gameScore === gameMatchNum) {
+	gameWins ++;
+//insert 	
+	reset ();
+} else {
+	gameLosses ++;
+	reset ();
+}
 
 
-
-
+//may need some kind of total score variable so the game doesn't reset right away.
 
 
 
