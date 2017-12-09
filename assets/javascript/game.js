@@ -29,6 +29,18 @@ var gemThreeNum = Math.floor((Math.random() * 11) + 1);
 var gemFourNum = Math.floor((Math.random() * 11) + 1);
 console.log(gemOneNum);
 
+//Writing to the html:
+$("#aggScore").text(gameScore);
+$("#matchNumber").text(gameMatchNum);
+$("#aggWins").text(gameWins);
+$("#aggLosses").text(gameLosses);
+
+//RESET FUNCTION:
+function reset(){
+	gameMatchNum = Math.floor((Math.random() * 120) + 19);
+	
+	
+}
 
 
 
