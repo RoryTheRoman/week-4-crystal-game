@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 268 251" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bi" x1=".09938" x2=".90159" y1="-.06887" y2="1.0691">
+   <stop stop-color="#CDCDCD" offset="0"/>
+   <stop stop-color="#fff" offset=".2474"/>
+   <stop stop-color="#fff" offset=".5684"/>
+   <stop stop-color="#686868" offset=".8842"/>
+   <stop offset=".9947"/>
+  </linearGradient>
+  <linearGradient id="bh" x1=".30297" x2=".84716" y1=".47732" y2="-.24759">
+   <stop stop-color="#A7A7A7" offset="0"/>
+   <stop stop-color="#fff" offset=".5"/>
+  </linearGradient>
+  <radialGradient id="bf" cx="185.67" cy="108.44" r="36.787" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#767676" offset="0"/>
+   <stop offset="1"/>
+  </radialGradient>
+  <linearGradient id="be" y1=".5" y2=".5">
+   <stop offset=".2947"/>
+   <stop stop-color="#4B4B4B" offset=".3211"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="bd" x1="1" x2="0" y1=".49991" y2=".49991">
+   <stop stop-color="#fff" offset=".1737"/>
+   <stop stop-color="#767676" offset=".6947"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="bc" x1=".00024" y1=".50053" y2=".50053">
+   <stop stop-color="#A7A7A7" offset="0"/>
+   <stop stop-color="#fff" offset=".5"/>
+  </linearGradient>
+  <linearGradient id="bb" x1=".42358" x2=".83534" y1=".27434" y2="1.3197">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#585858" offset="1"/>
+  </linearGradient>
+  <linearGradient id="ba" x1=".25069" x2=".57858" y1=".20431" y2=".85243">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#C5C5C5" offset=".3316"/>
+   <stop stop-color="#B6B6B6" offset=".3368"/>
+   <stop stop-color="#959595" offset="1"/>
+  </linearGradient>
+  <linearGradient id="az" x1=".22067" x2=".84407" y1=".35919" y2=".74481">
+   <stop stop-color="#595959" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="ay" x1=".06479" x2=".5694" y1=".45824" y2=".50027">
+   <stop stop-color="#A7A7A7" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="ax" x1=".10807" x2=".60301" y1=".83247" y2=".36501">
+   <stop stop-color="#898989" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="aw" x1=".19925" x2=".79507" y1=".95901" y2=".1698">
+   <stop stop-color="#A7A7A7" offset="0"/>
+   <stop stop-color="#fff" offset=".5"/>
+  </linearGradient>
+  <linearGradient id="au" y1=".49995" y2=".49995">
+   <stop stop-color="#595959" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="at" x1=".47849" x2=".6372" y1=".94555" y2=".09023">
+   <stop stop-color="#A7A7A7" offset="0"/>
+   <stop stop-color="#fff" offset=".5"/>
+  </linearGradient>
+  <linearGradient id="as" y1=".50034" y2=".50034">
+   <stop stop-color="#5A5A5A" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="ar" x1=".0658" x2=".88419" y1=".01334" y2=".88181">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#494949" offset=".0632"/>
+   <stop stop-color="#2D2D2D" offset=".1316"/>
+   <stop stop-color="#595959" offset=".1421"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <radialGradient id="aq" cx="66.894" cy="164.93" r="55.122" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop offset=".9947"/>
+  </radialGradient>
+  <linearGradient id="ap" x1=".42451" x2=".67039" y1=".00242" y2=".99851">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#878787" offset=".3737"/>
+   <stop stop-color="#595959" offset=".3842"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="ao" x1="-.01108" x2=".97736" y1=".9087" y2=".04009">
+   <stop stop-color="#515151" offset="0"/>
+   <stop stop-color="#fff" offset=".6947"/>
+  </linearGradient>
+  <linearGradient id="ca" x1=".07689" x2=".66297" y1=".02291" y2=".80784">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#B0B0B0" offset=".2895"/>
+   <stop stop-color="#8C8C8C" offset=".3"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="bz" x1=".16203" x2="1.2255" y1=".03569" y2=".75272">
+   <stop offset=".1756"/>
+   <stop stop-color="#595959" offset=".1895"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="by" x1=".5" x2=".5" y1="1">
+   <stop stop-color="#515151" offset="0"/>
+   <stop stop-color="#fff" offset=".6947"/>
+  </linearGradient>
+  <linearGradient id="bw" x1=".49958" x2=".49958" y2="1">
+   <stop stop-color="#A7A7A7" offset="0"/>
+   <stop stop-color="#fff" offset=".5"/>
+  </linearGradient>
+  <linearGradient id="bv" x1=".46149" x2=".73664" y1=".15963" y2="1.0848">
+   <stop stop-color="#545454" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="bu" x1="-.2433" x2=".65896" y1=".08743" y2=".99851">
+   <stop stop-color="#767676" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="bt" y1=".49997" y2=".49997">
+   <stop stop-color="#2B2B2B" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="bs" x1=".72156" x2=".01066" y1=".45671" y2=".59539">
+   <stop stop-color="#fff" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="br" x1=".41552" x2=".93464" y1=".23067" y2=".92658">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#585858" offset="1"/>
+  </linearGradient>
+  <linearGradient id="bq" x1=".38133" x2=".65404" y1=".91248" y2=".00785">
+   <stop stop-color="#515151" offset="0"/>
+   <stop stop-color="#fff" offset=".6947"/>
+  </linearGradient>
+  <linearGradient id="bp" x2=".99985" y1=".4999" y2=".4999">
+   <stop stop-color="#515151" offset="0"/>
+   <stop stop-color="#fff" offset=".6947"/>
+  </linearGradient>
+  <linearGradient id="bo" x1="1" x2="0" y1=".50006" y2=".50006">
+   <stop stop-color="#fff" offset=".4842"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="bn" x1=".48374" x2=".74455" y1=".40641" y2=".7599">
+   <stop stop-color="#fff" offset="0"/>
+   <stop offset=".9947"/>
+  </linearGradient>
+  <linearGradient id="cb" y1=".50028" y2=".50028">
+   <stop stop-color="#2E2E2E" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <radialGradient id="bm" cx="59.918" cy="74.006" r="32.649" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop offset=".9947"/>
+  </radialGradient>
+  <linearGradient id="bl" x1="-.04705" x2=".92626" y1=".37656" y2=".8802">
+   <stop stop-color="#fff" offset=".1737"/>
+   <stop stop-color="#767676" offset=".6947"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="bk" x1=".4988" x2=".5027" y1=".03082" y2=".92704">
+   <stop stop-color="#fff" offset=".2579"/>
+   <stop stop-color="#767676" offset=".7579"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="bj" x1=".29263" x2=".70608" y1="-.13151" y2=".95781">
+   <stop stop-color="#767676" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="bg" x1=".23511" x2=".86462" y1=".98387" y2="-.16622">
+   <stop stop-color="#A7A7A7" offset="0"/>
+   <stop stop-color="#fff" offset=".5"/>
+  </linearGradient>
+  <linearGradient id="av" x1=".43197" x2=".53229" y1=".74767" y2=".06057">
+   <stop stop-color="#898989" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="bx" x1="-.07369" x2="1.2867" y1=".08475" y2=".84664">
+   <stop stop-color="#fff" offset="0"/>
+   <stop offset=".0684"/>
+   <stop offset=".1756"/>
+   <stop stop-color="#595959" offset=".1895"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g display="none" fill="none" stroke="#000" stroke-miterlimit="10">
+  <polygon points="93.892 68.589 156.95 86.237 212.17 84.081 228.64 62.352 195.38 35.414 133.63 17.918 75.719 20.74 60.772 42.11" display="none"/>
+  <polyline points="75.719 20.74 51.272 39.053 37.507 51.986 21.595 86.861 19.17 77.726 37.507 51.986 51.272 39.053 60.772 42.11 59.543 74.1 59.543 74.1 67.083 114.67 53.996 112.22 45.421 100.78 33.076 96.131 21.595 86.861 106.02 232.35 236.52 138.37 208.92 144.54 184.79 108.04 188.28 140.2 184.61 149.24 106.02 232.35 42.454 111.22 45.421 100.78 59.446 74.109 33.076 96.131 26.754 90.882 21.595 86.861 59.495 73.896 93.892 68.589 150.16 138.37 127.9 139.22 108.62 127.16 85.921 126.91 86.546 127.16 67.083 114.67 156.95 86.237 223.5 138.37 236.52 138.37 242.47 126.91 248.53 124.79 242.47 126.91 229.71 91.496 245.52 105.02 229.71 91.496 212.17 84.081 150.16 138.37 150.16 138.32 169.12 144.46 188.28 140.2 208.92 144.54 223.5 138.37 229.71 91.496 228.64 62.352 237.96 77.52 246.73 109.45 248.53 124.79 236.52 138.37 220.53 146.46 140.81 195.5 148.42 147.79 106.02 191.14 67.083 125.02 53.996 112.22 42.454 111.22 33.076 96.131 27.77 97.502 27.77 97.502 77.439 178.12 67.083 125.02 67.083 124.79 85.898 126.99 106.02 138.32 127.9 139.22 148.42 147.79 169.12 144.47 184.61 149.24 208.9 144.39 220.53 146.46 168.83 187.12 106.02 232.35 106.02 138.32 108.62 127.16 118.05 98.547" display="none"/>
+ </g>
+ <polygon transform="translate(-.003 .003)" points="93.892 68.589 156.95 86.237 212.17 84.081 228.64 62.352 195.38 35.414 133.63 17.918 75.719 20.74 60.772 42.11" fill="url(#bi)"/>
+ <polygon transform="translate(-.003 .003)" points="212.17 84.081 184.79 108.04 156.95 86.237" fill="url(#bh)"/>
+ <polygon transform="translate(-.003 .003)" points="184.79 108.04 188.28 140.2 208.9 144.39" fill="url(#bf)"/>
+ <polygon transform="translate(-.003 .003)" points="184.79 108.04 150.16 138.32 169.12 144.46 188.28 140.2" fill="url(#be)"/>
+ <polygon transform="translate(-.003 .003)" points="150.16 138.32 127.9 139.22 108.62 127.16 118.05 98.547" fill="url(#bd)"/>
+ <polygon transform="translate(-.003 .003)" points="127.9 139.22 148.42 147.79 169.12 144.46 150.16 138.32" fill="url(#bc)"/>
+ <polygon transform="translate(-.003 .003)" points="127.9 139.22 106.02 138.32 85.921 126.91 108.62 127.16" fill="#EFEFEF"/>
+ <polygon transform="translate(-.003 .003)" points="169.12 144.47 184.61 149.24 208.9 144.39 188.28 140.2" fill="url(#bb)"/>
+ <polygon transform="translate(-.003 .003)" points="118.05 98.547 93.892 68.589 59.495 73.896 67.083 114.67" fill="url(#ba)"/>
+ <polygon transform="translate(-.003 .003)" points="60.772 42.11 51.272 39.053 37.507 51.986 21.595 86.861 59.495 73.896 60.731 43.14" fill="url(#az)"/>
+ <polygon transform="translate(-.003 .003)" points="37.507 51.986 19.17 77.726 21.595 86.861" fill="url(#ay)"/>
+ <polygon transform="translate(-.003 .003)" points="21.595 86.861 33.076 96.131 59.495 73.896" fill="url(#ax)"/>
+ <polygon transform="translate(-.003 .003)" points="33.076 96.131 45.421 100.78 59.495 73.896" fill="url(#aw)"/>
+ <polygon transform="translate(-.003 .003)" points="27.77 97.502 33.076 96.131 21.595 86.861" fill="url(#au)"/>
+ <polygon transform="translate(-.003 .003)" points="67.083 114.67 59.495 73.896 45.421 100.78 53.996 112.22" fill="url(#at)"/>
+ <polygon transform="translate(-.003 .003)" points="85.898 126.99 67.083 125.02 53.996 112.22 67.083 114.67" fill="url(#as)"/>
+ <polygon transform="translate(-.003 .003)" points="27.77 97.502 77.439 178.12 42.454 111.22 33.076 96.131" fill="url(#ar)"/>
+ <polygon transform="translate(-.003 .003)" points="106.02 232.35 27.77 97.502 77.439 178.12" fill="url(#aq)"/>
+ <polygon transform="translate(-.003 .003)" points="106.02 191.14 67.083 125.02 77.439 178.12 106.02 232.35" fill="url(#ap)"/>
+ <polygon transform="translate(-.003 .003)" points="148.42 147.79 140.81 195.5 106.02 232.35 106.02 191.14" fill="url(#ao)"/>
+ <polygon transform="translate(-.003 .003)" points="106.02 138.32 106.02 191.14 148.42 147.79 127.9 139.22" fill="url(#ca)"/>
+ <polygon transform="translate(-.003 .003)" points="67.083 125.02 85.898 126.99 106.02 138.32 106.02 191.14" fill="url(#bz)"/>
+ <polygon transform="translate(-.003 .003)" points="148.42 147.79 169.12 144.46 184.61 149.24 140.81 195.5" fill="url(#by)"/>
+ <polygon transform="translate(-.003 .003)" points="208.92 144.54 223.44 138.32 236.52 138.37 220.53 146.46" fill="#EFEFEF"/>
+ <polygon transform="translate(-.003 .003)" points="242.47 126.91 236.52 138.37 248.53 124.79" fill="url(#bw)"/>
+ <polygon transform="translate(-.003 .003)" points="223.44 138.32 184.79 108.04 212.17 84.081 229.71 91.496" fill="url(#bv)"/>
+ <polygon transform="translate(-.003 .003)" points="242.47 126.91 229.71 91.496 223.44 138.32 236.52 138.37" fill="url(#bu)"/>
+ <polygon transform="translate(-.003 .003)" points="228.64 62.352 229.71 91.496 212.17 84.081" fill="url(#bt)"/>
+ <polygon transform="translate(-.003 .003)" points="245.52 105.02 229.71 91.496 228.64 62.352 237.96 77.52" fill="url(#bs)"/>
+ <polygon transform="translate(-.003 .003)" points="246.73 109.45 248.53 124.79 242.47 126.91 229.71 91.496 245.52 105.02" fill="url(#br)"/>
+ <polygon transform="translate(-.003 .003)" points="220.53 146.46 140.81 195.5 184.61 149.24 208.92 144.54" fill="url(#bq)"/>
+ <polygon transform="translate(-.003 .003)" points="236.52 138.37 220.53 146.46 168.83 187.12" fill="url(#bp)"/>
+ <polygon transform="translate(-.003 .003)" points="106.02 232.35 168.83 187.12 220.53 146.46 140.81 195.5" fill="url(#bo)"/>
+ <polygon transform="translate(-.003 .003)" points="51.272 39.053 60.772 42.11 75.719 20.74" fill="url(#bn)"/>
+ <polygon transform="translate(-.003 .003)" points="33.076 96.131 45.421 100.78 53.996 112.22 42.454 111.22" fill="url(#cb)"/>
+ <polygon transform="translate(-.003 .003)" points="59.495 73.896 93.892 68.589 60.772 42.11" fill="url(#bm)"/>
+ <polygon transform="translate(-.003 .003)" points="156.95 86.237 118.05 98.547 93.892 68.589" fill="url(#bl)"/>
+ <polygon transform="translate(-.003 .003)" points="118.05 98.547 156.95 86.237 184.79 108.04 150.16 138.32" fill="url(#bk)"/>
+ <polygon transform="translate(-.003 .003)" points="184.79 108.04 223.44 138.32 208.92 144.54" fill="url(#bj)"/>
+ <line transform="translate(-.003 .003)" x1="118.05" x2="67.083" y1="98.547" y2="114.67" fill="url(#bg)"/>
+ <polygon transform="translate(-.003 .003)" points="108.62 127.16 85.921 126.91 67.083 114.67 118.05 98.547" fill="url(#av)"/>
+ <polygon transform="translate(-.003 .003)" points="53.996 112.22 42.454 111.22 77.439 178.12 67.083 125.02" fill="url(#bx)"/>
+ <polygon transform="translate(-.003 .003)" points="246.73 109.45 237.96 77.52 228.64 62.352 195.38 35.414 133.63 17.918 75.719 20.74 51.272 39.053 37.507 51.986 19.17 77.726 21.595 86.861 106.02 232.35 236.52 138.37 248.53 124.79" fill="#007fff" opacity=".28"/>
+</svg>
