@@ -33,35 +33,45 @@ var gemFourNum = Math.floor(Math.random() * 11 + 1);
 
 //RESET FUNCTION:
 function reset(){
-	gameMatchNum = Math.floor((Math.random() * 120) + 19);
+	gameMatchNum = Math.floor(Math.random() * 120 + 19);
 	gameScore = 0;
 	gemOneNum = Math.floor(Math.random() * 11 + 1);
 	gemTwoNum = Math.floor(Math.random() * 11 + 1);
 	gemThreeNum = Math.floor(Math.random() * 11 + 1);
 	gemFourNum = Math.floor(Math.random() * 11 + 1);
-
+	
 }
 
 //defining click events on the gems.
 
+// function game(){
+
 $('#gemOne').on ('click', function() {
 	gameScore = gameScore + gemOneNum;
+	$('#aggScore').text(gameScore);
 });
 $('#gemTwo').on ('click', function() {
 	gameScore = gameScore + gemTwoNum;
+	$('#aggScore').text(gameScore);
 });
 $('#gemThree').on ('click', function() {
 	gameScore = gameScore + gemThreeNum;
+	$('#aggScore').text(gameScore);
 });
 $('#gemFour').on ('click', function() {
 	gameScore = gameScore + gemFourNum;
+	$('#aggScore').text(gameScore);
+
 });
+
+
 //Writing to the html:
-$('#aggScore').text(gameScore);
+
 $('#matchNumber').text(gameMatchNum);
 $('#aggWins').text(gameWins);
 $('#aggLosses').text(gameLosses);
 
+// game ();
 //beginning if/else statements:
 
 if (gameScore === gameMatchNum) {
@@ -69,7 +79,7 @@ if (gameScore === gameMatchNum) {
 	$('#winLoseAlert').html("You Won!");
 
 	reset ();
-} else if (gameScore > gameMatchNumb) {
+} else if (gameScore > gameMatchNum) {
 	gameLosses ++;
 	$('#winLoseAlert').html("You Lost!");
 	reset ();
