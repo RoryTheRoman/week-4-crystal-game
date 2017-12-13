@@ -42,54 +42,104 @@ function reset(){
 	
 }
 
+
+$('#matchNumber').text(gameMatchNum);
+
+
 //defining click events on the gems.
-
-// function game(){
-
 $('#gemOne').on ('click', function() {
 	gameScore = gameScore + gemOneNum;
 	$('#aggScore').text(gameScore);
+	if (gameScore === gameMatchNum) {
+	gameWins ++;
+	$('#winLoseAlert').html("<h2>You Won!</h2>");
+
+
+	reset ();
+} else if (gameScore > gameMatchNum) {
+	gameLosses ++;
+	$('#winLoseAlert').html("<h2>You Lost!</h2>");
+
+	reset ();
+}
+
 });
 $('#gemTwo').on ('click', function() {
 	gameScore = gameScore + gemTwoNum;
 	$('#aggScore').text(gameScore);
-});
-$('#gemThree').on ('click', function() {
-	gameScore = gameScore + gemThreeNum;
-	$('#aggScore').text(gameScore);
-});
-$('#gemFour').on ('click', function() {
-	gameScore = gameScore + gemFourNum;
-	$('#aggScore').text(gameScore);
-
-});
-
-
-//Writing to the html:
-
-$('#matchNumber').text(gameMatchNum);
-$('#aggWins').text(gameWins);
-$('#aggLosses').text(gameLosses);
-
-// game ();
-//beginning if/else statements:
-
-if (gameScore === gameMatchNum) {
+	if (gameScore === gameMatchNum) {
 	gameWins ++;
 	$('#winLoseAlert').html("You Won!");
+
 
 	reset ();
 } else if (gameScore > gameMatchNum) {
 	gameLosses ++;
 	$('#winLoseAlert').html("You Lost!");
+
+	reset ();
+}
+});
+$('#gemThree').on ('click', function() {
+	gameScore = gameScore + gemThreeNum;
+	$('#aggScore').text(gameScore);
+	if (gameScore === gameMatchNum) {
+	gameWins ++;
+	$('#winLoseAlert').html("You Won!");
+
+
+	reset ();
+} else if (gameScore > gameMatchNum) {
+	gameLosses ++;
+	$('#winLoseAlert').html("You Lost!");
+
+	reset ();
+}
+});
+$('#gemFour').on ('click', function() {
+	gameScore = gameScore + gemFourNum;
+	$('#aggScore').text(gameScore);
+	if (gameScore === gameMatchNum) {
+	gameWins ++;
+	$('#winLoseAlert').html("You Won!");
+	
+
+	reset ();
+} else if (gameScore > gameMatchNum) {
+	gameLosses ++;
+	$('#winLoseAlert').html("You Lost!");
+	
 	reset ();
 }
 
+});
+$('#aggWins').text(gameWins);
+$('#aggLosses').text(gameLosses);
+
+//Writing to the html:
+
+
+
+
+
+// game ();
+//beginning if/else statements:
+
+// if (gameScore === gameMatchNum) {
+// 	gameWins ++;
+// 	$('#winLoseAlert').html("You Won!");
+// 	$('#aggWins').text(gameWins);
+
+// 	reset ();
+// } else if (gameScore > gameMatchNum) {
+// 	gameLosses ++;
+// 	$('#winLoseAlert').html("You Lost!");
+// 	$('#aggLosses').text(gameLosses);
+// 	reset ();
+// }
+
 
 //may need some kind of total score variable so the game doesn't reset right away.
-
-
-
 
 
 
