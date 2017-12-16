@@ -26,14 +26,14 @@ $(document).ready(function(){
 		
 	}
 	var winner = function (){
-		// alert ("You Won!");
+		alert ("You Won!");
 		gameWins ++;
 		$('#winLoseAlert').html("<h2>You Won!</h2>");
 		$('#aggWins').text(gameWins);
 		reset();
 	}
 	var loser = function(){
-		// alert ("You Lost!");			
+		alert ("You Lost!");			
 		gameLosses ++;	
 		$('#winLoseAlert').html("<h2>You Lost!</h2>");
 		$('#aggLosses').text(gameLosses);
