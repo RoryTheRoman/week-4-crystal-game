@@ -10,7 +10,6 @@ $(document).ready(function(){
 
 	$('#matchNumber').text(gameMatchNum);
 	
-	
 
 	var reset = function (){
 
@@ -21,7 +20,9 @@ $(document).ready(function(){
 		gemTwoNum = Math.floor(Math.random() * 11 + 1);
 		gemThreeNum = Math.floor(Math.random() * 11 + 1);
 		gemFourNum = Math.floor(Math.random() * 11 + 1);
-		
+		// $('#winLoseAlert').html("");
+		// $('#winLoseAlert').hide();
+
 		
 	}
 	var winner = function (){
@@ -88,17 +89,6 @@ $(document).ready(function(){
 
 		});
 
-			// if (gameScore === gameMatchNum) {
-			// gameWins ++;
-			// $('#winLoseAlert').html("<h2>You Won!</h2>");
-			// reset ();
-			// }
-			// if (gameScore > gameMatchNum) {
-			// gameLosses ++;
-			// $('#winLoseAlert').html("<h2>You Lost!</h2>");
-
-			// reset ();
-			// }
 
 
 });
