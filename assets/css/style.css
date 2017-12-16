@@ -12,6 +12,9 @@ body {
 
 	
 }
+.win-lose {
+	height: 75px;
+}
 
 h1 {
 	display: inline-block;
@@ -30,6 +33,7 @@ h2 {
 	font-size: 20px;
 
 }
+
 
 p {
 	display: inline-block;
